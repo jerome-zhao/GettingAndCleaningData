@@ -18,7 +18,7 @@ Variables
 * `data` - Data frame, which is sorted from variable "interim"
 * `processed_data` - Data frame, data processed with pattern matching
 * `column_names` - Character list of columns of the final result
-* `data_set` - Data frame, final result to be written as output
+* `data_set` - Data frame, final result to be written as output.
 
 Data
 ------------------------------
